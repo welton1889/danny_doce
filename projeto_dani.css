@@ -1,0 +1,200 @@
+body {
+    background-color:#f7d9c0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background-color: #964b00;
+    padding: 10px 0;
+}
+.aprentacao{
+    text-align: justify;
+    background-color:#f7d9c0;
+    padding: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+        
+        border-radius: 25px;
+        margin:10px 350px;
+        
+            border: 1px solid #964b00; /* Adicione uma borda sólida à caixa retangular */
+            padding: 10px; /* Adicione um espaçamento interno de 10 pixels ao redor do texto */
+            width: 500px; /* Defina a largura da caixa retangular */
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    text-align: center;
+    border: 5px #442302;
+}
+
+li {
+            margin: 20px auto;
+            width: 750px;
+            background-color: #964b00;
+            border-radius: 10px;
+            padding: 10px;
+            box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2);
+            text-align: center;
+
+}
+li img {
+    width: 750px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background-color: #442302;
+}
+          
+         
+      
+      
+   
+
+nav {
+    padding: 10px;
+    border: 5px #442302;
+}
+
+
+nav ul {
+float: right;
+
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+
+    margin: 0px 150px;
+        
+      }
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+nav li:hover{
+    padding: 10px;
+    color: #f7d9c0;
+    background-color: #442302;
+    border-radius: 100px;
+}
+
+
+#logo
+     {position: -ms-page;
+   margin: 5px 250px;
+        right: 0;
+        top: 0;
+        height: 200px;
+        width: 200px;
+      }
+      
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+main {
+    background-color: #f7d9c0;
+    padding: 50px 0;
+    text-align: center;
+}
+
+
+
+main h2 {
+    color: #964b00;
+}
+
+footer {
+    background-color: #964b00;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+
+.doc{
+width: 300px;
+height: 300px;
+justify-content: space-between;
+margin: 50px;
+transition: transform 0.1s ease;
+}
+.doc:hover{
+    transform: rotate(90deg);
+}
+
+
+
+
+
+/*h3{
+    text-align: left;
+}
+.roda-pe{
+    text-align: left;
+
+}
+
+h4{
+    text-align: right;
+}
+.inst{
+    text-align: right;
+}
+
+
+/*
+ 
+  
+ */
+
+ .rodape {
+    
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .endereco {
+    text-align: left;
+    margin-left: 250px;
+  }
+  
+  .redes-sociais {
+    text-align: right;
+    margin-right: 250px;
+  }
+  .redes-sociais a {
+    margin-left: 10px;
+    height: 100px; 
+
+}
+    .inst{
+        width: 45px;
+        height: 45px;
+    }
+    .what{
+        width: 60px;
+        height: 60px;
+    }
+
+    
